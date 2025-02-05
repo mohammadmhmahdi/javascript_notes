@@ -14,4 +14,4 @@ var second = 0.2;
 var total = first + second;
 // console.log(total.toFixed(2))
 const num = 50/0;
-console.log(numz)
+console.log(num)
